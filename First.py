@@ -3,6 +3,7 @@ import tkinter as tk
 
     
 root = tk.Tk()
+root.title("Drugs")
 
 search = tk.Entry(root)
 label = tk.Label(root)
